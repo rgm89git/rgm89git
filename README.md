@@ -4,8 +4,6 @@ I'm RGM. I'm 15 year old and I live in Brazil.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgm89git&theme=flat" alt="rgm89git" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rgmbrasil" target="blank"><img src="https://img.shields.io/twitter/follow/RGMBrasil?color=blue&logo=twitter&logoColor=white&style=for-the-badge" alt="rgmbrasil" /></a> <a href="https://www.youtube.com/c/rgm89" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCg60xKwVkUnKJYajM8cEfkw?logo=youtube&style=for-the-badge" alt="RGM" /></a> </p>
-
 <div style="display:flex;flex-direction:row;justify-content:space-between;">
   <img src="https://img.shields.io/badge/Discord-RGMOfficial%230679-%235865F2?logo=discord&style=for-the-badge&logoColor=white" />
   <a href="https://twitter.com/rgmbrasil" target="blank"><img src="https://img.shields.io/twitter/follow/RGMBrasil?color=blue&logo=twitter&logoColor=white&style=for-the-badge" alt="rgmbrasil" /></a>
