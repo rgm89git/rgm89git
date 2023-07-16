@@ -2,7 +2,7 @@
 
 I'm RGM. I'm 17 year old and I live in Brazil.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgm89git&theme=flat" alt="rgm89git" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rgm89git&theme=darkhub" alt="rgm89git" /></a> </p>
 
 <div style="display:flex;flex-direction:row;justify-content:space-between;">
   <img src="https://img.shields.io/badge/Discord-RGMOfficial%230679-%235865F2?logo=discord&style=for-the-badge&logoColor=white" />
